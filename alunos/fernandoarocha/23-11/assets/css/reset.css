@@ -1,0 +1,21 @@
+/* Reset */
+
+*, html{
+    margin:0;
+    padding:0;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin-top:10px;
+    border-bottom: 1px solid #a1a1a1;
+}
+p{
+    font-family: 'Monsieur La Doulaise', cursive;
+    text-align:justify;
+    font-size:18px;
+    line-height:25px;
+    padding-top:1em;
+}
+body{
+    background-color:#b1b1b1;
+}

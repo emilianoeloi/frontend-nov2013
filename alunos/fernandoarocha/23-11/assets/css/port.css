@@ -1,0 +1,65 @@
+h1{
+    color:purple !important;
+    padding-top:1em;
+}
+
+p{
+    color:yellow;
+}
+.titulo-centralizado{
+    text-align:center;
+}
+.sem-borda{
+    border:0;
+}
+
+body{
+    background-color:#000;
+}
+#container{
+    padding-top:10em;
+    width:700px;
+    margin:0 auto;
+    background-image: url("/assets/img/pattern2.png");
+    background-repeat:repeat;
+    padding:10px 50px 5px;
+    
+}
+.menu{
+    padding-top:1em;
+    width:600px;
+    margin:0 50 auto;
+    text-align:right;
+    padding-left:3em;
+    
+}
+
+.menu-horizontal{
+    display:inline;
+    border-style:inset;
+    border-color: orange;
+    background-color:#c1c1c1;
+      
+}
+
+.img {
+   width:150px;
+    position:absolute;
+    
+    
+}
+.reduz{
+    width:120px !important;
+}
+
+table{
+    border-collapse:collapse;
+}
+td, th{
+    border:1px solid #000;
+    text-align:center;
+    padding: 2px 5px 1px;
+}
+.odd{
+    background-color:#c1c1c1;
+}

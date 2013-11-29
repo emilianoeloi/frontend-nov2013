@@ -1,0 +1,15 @@
+
+            .gwd-body {
+                background-color: transparent;
+                color:red;
+                font-size:30px;
+            }
+          /* Format Fieldset*/
+    
+            fieldset {
+               border-color:red;
+               border-bottom-style:double;
+               border-bottom-width:medium;
+            }
+        
+            
