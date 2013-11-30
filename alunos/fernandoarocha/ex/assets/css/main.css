@@ -1,0 +1,111 @@
+h1{
+    color:purple !important;
+    padding-top:1em;
+}
+
+p{
+    color:Black;
+}
+.titulo-centralizado{
+    text-align:center;
+}
+.sem-borda{
+    border:0;
+}
+
+body{
+    background-color:black;
+}
+.container{
+    padding-top:10em;
+    width:700px;
+    margin:0 auto;
+    background-image: url("/assets/img/pattern2.png");
+    
+    background-repeat:repeat;
+    padding:10px 50px 5px;
+    box-shadow:5px 5px 5px gray;
+    height:1000px;
+    
+}
+.menu{
+    padding-top:1em;
+    width:600px;
+    margin:0 50 auto;
+    text-align:right;
+    padding-left:3em;
+    
+}
+
+.menu-horizontal{
+    display:inline;
+    border-style:inset;
+    border-color: orange;
+    background-color:#c1c1c1;
+      
+}
+
+.img {
+   width:150px;
+    position:absolute;
+    
+    
+}
+.reduz{
+    width:120px !important;
+}
+
+table{
+    border-collapse:collapse;
+}
+td, th{
+    border:1px solid #000;
+    text-align:center;
+    padding: 2px 5px 1px;
+}
+.odd{
+    background-color:#c1c1c1;
+}
+.t{
+    font-family: 'gabriolaregular';
+}
+.menu1 {
+    list-style-type:none;
+    color:white;
+    text-align:center;
+    
+}
+.menu1 .item{
+    padding:6px;
+    border:2px;
+    border-radius:5px;
+    box-shadow: 5px 2px 5px #888;
+    border-style:inset;
+    border-color:orange;
+    margin:5px;
+    background-color:black;
+    display:inline-block;
+    width:100px;
+    transition: width 2s;
+    -webkit-transition:width 2s;
+    
+}
+
+.fundo{
+    background: -webkit-linear-gradient(#cc6600, #ffffff);
+    background: -moz-linear-gradient(#CC6600, #ffffff);
+}
+.item.vertical{
+    transform:rotate(10deg);
+    -webkit-transform:rotate(10deg);
+    -ms-transform:rotate(10deg);
+}
+.item.vertical1{
+    transform:rotate(-10deg);
+    -webkit-transform:rotate(-10deg);
+    -ms-transform:rotate(-10deg);
+}
+.menu1 .item:hover{
+    width:150px;
+    
+}

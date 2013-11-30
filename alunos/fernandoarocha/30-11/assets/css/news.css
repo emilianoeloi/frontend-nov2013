@@ -1,0 +1,40 @@
+body{
+    margin:0 auto;
+    background:black;
+    width:1000px;
+}
+.container{
+    margin:0 auto;
+    background:white;
+    width:800px;
+    padding-top:0.1em;
+    border-top-width:6px;
+    border-top-color:black; 
+    box-shadow: 5px 10px 5px #888;
+    font-family:monospace;
+}
+.txt{
+    margin-left: 100px;
+    margin-right: 100px;
+    border-top:3px inset black;
+    border-radius:20px;
+}
+img{
+    margin-left:250px;
+    padding-top:1em;
+}
+.fonte{
+    font-family:fantasy;
+    text-align:justify;
+    font-size:10px;
+    transition: font-size 2s;
+    -webkit-transition:font-size 2s;
+}
+.fonte:hover{
+    font-size:15px;
+}
+img:hover{
+    margin-left:80px;
+    padding-left:6em;
+    width:200px;
+}

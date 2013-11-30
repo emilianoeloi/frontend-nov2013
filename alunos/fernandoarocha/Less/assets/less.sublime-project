@@ -4,6 +4,10 @@
 		{
 			"follow_symlinks": true,
 			"path": "/Users/fernandorocha/Documents/frontend-nov2013/alunos/fernandoarocha/Less"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Applications/XAMPP/xamppfiles/htdocs/ex"
 		}
 	]
 }
