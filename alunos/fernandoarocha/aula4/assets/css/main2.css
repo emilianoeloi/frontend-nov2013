@@ -1,0 +1,22 @@
+.menu{
+    border:5px dotted black;
+    width:400px;
+    height:1000px;
+    float:left;
+}
+.conteudo{
+    border:5px groove grey;
+    height:1000px; 
+    padding-left:400px;
+    padding-right:200px;
+}
+.publicidade{
+    border:5px groove red;
+    width:200px;
+    height:1000px;
+    float:right;
+ }
+.container{
+    min-width:600px;
+    margin:0 auto;
+}
