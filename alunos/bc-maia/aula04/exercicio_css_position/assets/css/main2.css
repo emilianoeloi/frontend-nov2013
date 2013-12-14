@@ -1,0 +1,25 @@
+.container {
+	position: relative;
+	min-width: 600px;
+}
+
+.menu {
+	width: 200px;
+	height: 1000px;
+	border: 1px dotted #c1c1c1;
+	float: left;
+}
+
+.content {
+	height: 3000px;
+	border: 1px dotted gray;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.ads {
+	width: 200px;
+	height: 1000px;
+	border: 1px dotted #c1c1c1;
+	float: right;
+}

@@ -1,0 +1,42 @@
+
+.calculadora{
+    border: 1px solid black;
+    width: 265px;
+    height: 330px;
+    margin:0 auto;
+    border-radius: 10px;
+}
+
+.calc-visor {
+    height: 58px;
+    width: 253px;
+    background-color: #c1c1c1;
+    color: #000;
+    
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    border:1px solid black;
+    
+    font-family: 'radioland_slimregular';
+    font-size:3em;
+    text-align:right;
+}
+
+.calc-btn {
+    width: 60px;
+    height: 60px;
+    float:left;
+    
+    font-size: 3em;
+    text-align:center;
+
+    background-color:#c1c1c1;
+    cursor:pointer;
+
+    margin-top: 5px;
+    margin-left: 5px;
+
+    border-radius: 10px;
+}

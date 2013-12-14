@@ -1,0 +1,40 @@
+h1{
+	color:orange !important;
+}
+p{
+	color:purple;
+}
+
+.titulo-centralizado{
+	text-align: center;
+}
+
+.sem-borda{
+	border: 0;
+}
+
+#container{
+	width: 770px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 15px 15px 15px 15px;
+	box-shadow: 10px 10px 5px #888;
+}
+
+.menu{
+	list-style-type:none;
+	text-align: right;
+}
+
+.menu-horizontal{
+	display:inline;
+	padding: 0px 7px 0px 7px;
+}
+
+.logo{
+	float: left;
+}
+
+.odd{
+	background-color: #a1a1a1;
+}
