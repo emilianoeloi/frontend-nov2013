@@ -1,0 +1,16 @@
+.coluna1{
+   width: 280px;
+   height: 485px;
+   float: left;
+   text-align: center;
+   font-size: 10px;
+   background-color: #cccccc;
+}
+.coluna2{
+   width: relative;
+   height: relative;
+   float: relative;
+   border: relative;
+   text-align: justify;
+   font-size: 12px;
+}

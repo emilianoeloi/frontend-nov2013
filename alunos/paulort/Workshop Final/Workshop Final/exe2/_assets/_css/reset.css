@@ -1,0 +1,24 @@
+/*Reset*/
+*,html{
+	margin: 0;
+	padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+	margin-top: 10px;
+}
+p{
+	font-family: Verdana;
+	text-align: justify;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-image: url("../_img/fundo.jpg");
+}
+table{
+	border-collapse: collapse;
+}
+td, th{
+	border: 1px solid #000;
+}

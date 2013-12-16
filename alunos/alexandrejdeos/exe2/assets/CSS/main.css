@@ -1,0 +1,45 @@
+#container{
+
+	height: 750px;
+	min-width: 600px;
+
+}
+.menu
+{
+	width: 280px;
+	height: 750px;
+	float: left;
+	text-align: center;
+	background-color: #D3D3D3;
+	margin-right: 3em;
+	
+
+}
+.ads{
+	width: 70px;
+	height: 750px;
+	float: right;
+	background-color: #D3D3D3;
+	
+}
+.content{
+	height: 750px;
+	
+	
+
+}
+strong{
+
+	font-size: 16px;
+	color: #8B8989;
+}
+
+.formatacao{
+
+	color: red;
+
+}
+.conteudo, .programacao {
+
+	color: green;
+}

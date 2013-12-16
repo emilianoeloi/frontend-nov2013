@@ -1,0 +1,51 @@
+
+#container{
+    width: 960px;
+    height: 580px;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: 1px 1px 1px #000;
+}
+.colunaFixa{
+    width: 280px;
+    height: 500px;
+    float: left;
+    background-color: #E6E6E6;
+    padding: 10px;
+    text-align: center;
+    margin-right: 15px;
+}
+h1{
+    font-size: 34px;
+    color: #6666E0;
+}
+.textoesquerdo{
+    font-size: 10px;
+}
+p{
+    font-size: 12px;
+    font-family: Calibri;
+}
+.colunaFlexivel{
+    float: right;
+    max-width: 600px;
+    min-width: 300px;
+    padding: 10px;
+    margin-top: 30px;
+}
+h2{
+    font-size: 30px;
+
+}
+h3{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.lista{
+    font-family: Calibri;
+    color:  #B2B2B2;
+    list-style: none;
+}
+.itens{
+    margin-top: 10px;
+}

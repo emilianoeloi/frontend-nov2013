@@ -1,0 +1,72 @@
+#container{
+	min-width: 600px;
+	margin: 10px;
+}
+.menu{
+	width: 280px;
+	height: 1000px;
+	background-color: #CCFFFF;
+	float: left;
+	padding: 30px;
+	box-shadow: 1px 
+}
+
+.content{
+	height: 1000px;
+	background-color: #fff;
+	padding-left: 380px;
+}
+.centralizar-texto{
+	text-align: center;
+}
+.gato{
+	width: 200px;
+	height: 200px;
+	display: block;
+}
+.facebook{
+	display: block;
+	width: 100px;
+	height: 100px;
+}
+
+
+#img-bottom{
+	background: url(../_img/logofacebook.png);
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	margin: 0% 30% 0%;
+	cursor:pointer; 
+	overflow: hidden;
+	display: block;
+	text-indent: -150px;
+}
+#img-top{
+	background: url(../_img/gato.png);
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 200px;
+	margin: 0% 15% 0%;
+	cursor:pointer; 
+	overflow: hidden;
+	display: block;
+	text-indent: -150px;
+}
+#texto-menu{
+	margin: 40px;
+}
+.conteudo{
+	height: 1000px;
+	background-color: #fff;
+	padding-left: 380px;
+	
+	
+}	
+.sub-titulos{
+	color: gray;
+}	
+.estrela{
+	width: 15px;
+	height: 15px;
+}

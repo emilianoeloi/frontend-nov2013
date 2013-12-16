@@ -1,0 +1,49 @@
+#content{
+	width: 980px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 15px;
+}
+
+.esquerda{
+	width: 280px;
+	margin: 15px 20px;
+	background-color: #E0EEE0;
+	padding: 15px;
+	float: left;
+	box-shadow: 10px 10px 5px #888;
+}
+
+.esquerda img{
+	text-align: center;
+
+}
+.esquerda h1{
+	color: 	#1919FF;
+	text-align: center;
+}
+
+.esquerda p{
+	color: 	#838B83;
+	text-align: justify;
+}
+
+.direita{
+	width: 700;
+	margin: 10px;
+	padding: 10px;
+}
+.direita h1{
+	font-style: bold;
+	font-size: 40px;
+}
+.direita p{
+	color: #8B8B83;
+	text-align: justify
+}
+
+.direita h3{
+	color: #8B8386;
+	font-style: bold;
+	font-size: 30px;
+}

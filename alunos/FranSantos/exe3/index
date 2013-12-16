@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Exercício 3</title>
+<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+<script src="assets/js/main.js" ></script>
+</head>
+
+	<body>
+
+		<div class="container">
+			<div class="cont_one">
+
+				<img src="assets/img/github.png" alt='Imagem GitHub' />
+
+				<h1>FRANCIELLE SANTOS</h1>
+
+				<p class="text_content_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse semper erat ac sollicitudin hendrerit. Fusce dapibus, magna at tincidunt ullamcorper, sem dui pulvinar nunc, id eleifend arcu lorem non massa. </p>
+
+
+				<img src="assets/img/ico_face.png" alt='ícone Facebook' />
+
+
+			</div>
+		
+			<div id="cont_two" class="cont_two">
+
+				<h2>Devweb - Front-end</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse semper erat ac sollicitudin hendrerit. Fusce dapibus, magna at tincidunt ullamcorper, sem dui pulvinar nunc, id eleifend arcu lorem non massa. Fusce euismod est et egestas commodo. Vivamus ligula libero, dictum in lobortis non, consequat ac nunc. In in lobortis sem. Nullam vel facilisis enim. Mauris dignissim auctor est sed rutrum. Ut aliquet fermentum fermentum. Nam quis urna velit. Curabitur nec ultrices turpis. Vestibulum </p>
+
+				<h3>Para Estudar</h3>
+
+			</div>
+
+
+		</div>
+
+	
+	</body>
+
+</html>

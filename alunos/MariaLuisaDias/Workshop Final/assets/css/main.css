@@ -1,0 +1,25 @@
+#container{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: ;
+	text-align: center;
+}
+.menu{
+	width: 280px;
+	
+	background-color: #b9b9b9;
+	border: 1px dotted ;
+	float: left;
+}
+h1{
+	color:blue;
+}
+.bloco{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+h2{
+	color:black;
+	text-align: left;
+}
