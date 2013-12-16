@@ -1,0 +1,13 @@
+.msg_red {
+	color: #F00;
+}
+
+.msg_green {
+	color: #18822c;
+}
+
+.bg-control-left, .bg-control-right
+{ display: block; background: url('.assets/img/sprite_control.png') no-repeat; }
+ 
+.bg-control-left { background-position: -0px -0px; width: 18px; height: 21px; }
+.bg-control-right { background-position: -0px -21px; width: 18px; height: 21px; }

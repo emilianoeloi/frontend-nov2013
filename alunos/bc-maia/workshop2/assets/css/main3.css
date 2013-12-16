@@ -1,0 +1,84 @@
+html {
+	background-color: green;
+	background: url('../img/pattern_grass.png');
+}
+
+.title {
+	margin-left: 40px;
+	font-weight: normal;
+	font-family: arial,sans-serif;
+	font-size: 30px;
+}
+
+.content li{
+	list-style-type: none;
+	margin-left: -40px;
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: #00a4db;
+}
+
+.content {
+	background-color: #FFF;
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;	
+}
+
+.content img {
+	margin-left: 350px;
+	display: block;
+}
+
+.data {
+	margin-left: 35px;
+}
+
+.data ul {
+	margin: 0;
+	padding: 0;
+}
+
+.data li {
+	display: list-item;
+	list-style: none;
+	margin-left: 0px;
+}
+
+.table-header {
+	background-color: #DCDCDC;
+	text-align: left;
+	font-family: arial,sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 1;
+	padding: 10px;
+	padding-left: 15px;
+}
+
+.t-head {
+	font-family: arial,sans-serif;
+	text-align: left;
+	font-size: 0.7em;
+	color: #FFF;
+	background-color: #000;
+}
+
+.col_text_top {
+	background-color: #000;
+	color: #FFF;
+}
+
+.col_text_end {
+	background-color: #FFF;
+	color: #000;
+	text-align: right;
+}
+
+.col_text {
+	background-color: #e4e4e4;
+}

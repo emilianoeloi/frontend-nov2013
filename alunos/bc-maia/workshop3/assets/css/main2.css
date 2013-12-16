@@ -1,0 +1,44 @@
+.container {
+	position: relative;
+	min-width: 600px;
+}
+
+.right {
+	padding: 15px;
+	border-radius: 15px;
+	background-color: #c7e064;
+	float: left;
+}
+
+.left {
+	margin-top: 5px;
+	margin-left: 5px;
+	border-radius: 15px;
+	float:left;
+	background-color: #74a5a5;
+	width: 280px;
+	height: 600px;
+}
+
+.left h2 {
+	text-align: center;
+}
+
+.left p {
+	padding: 15px;
+	text-align: justify;
+}
+
+
+#logo {
+	float: center;
+	height: 280px;
+	width: 280px;
+}
+
+#logo_small {
+	float: center;
+	margin: 0 auto;
+	height: 30px;
+	width: 30px;
+}
